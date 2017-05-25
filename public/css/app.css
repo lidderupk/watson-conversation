@@ -429,3 +429,19 @@ html{
   font-weight: normal;
   font-style: normal;
 }
+
+/* phone */
+.phone-center{
+  position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+
+.marvel-device.iphone6 {
+    width: 281px;
+    height: 500px;
+}
